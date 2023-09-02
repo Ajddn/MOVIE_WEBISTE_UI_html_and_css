@@ -1,0 +1,92 @@
+body{
+  background-color: #000000e3;
+  text-align: center;
+  margin: 0;
+  padding-left: 60px;
+}
+h1{
+color: #F5EDDC;
+padding : 0 45px  0 0;
+margin-top: 60px;
+margin-bottom: 0;
+font-family: sans-serif;
+}
+a{
+  text-decoration: none;
+  color: #AAA492;
+}
+h3{
+  color: #AAA492;
+  font-family: sans-serif;
+  font-size: medium;
+  padding-right: 224px;
+margin-top: 0;
+}
+.top-contianer{
+  padding: 50px 100px 0 0;
+  margin-bottom: 0;
+}
+.signup{
+padding-left: 40px;
+position: absolute;
+right: 10px;
+top:0px
+
+}
+.middle-contianer{
+  position: relative;
+  bottom: 50px;
+  padding: 50px 150px 10px 0;
+}
+p{
+  padding-right: 10px;
+
+}
+.pass{
+  margin-left: 30px;
+}
+.bottom-contianer{
+ padding: 50px;
+}
+input{
+  background-color: #707977;
+  margin: 0;
+  border: 0;
+  position: relative;
+  right:5px;
+  padding-left: 90px;
+  height: 30px;
+  bottom:10px;
+}
+.button{
+  padding-right: 200px;
+  padding-left: 30px;
+ position: relative;
+ bottom: 90px;
+ left: 6px;
+
+}
+.for{
+  position: relative;
+  bottom: 90px;
+  left: 33px;
+  padding-top: 2px;
+}
+
+.btn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 18px;
+  background: #a654c7;
+  
+  padding: 9px 105px 9px 105px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  text-decoration: none;
+}
+/* #a654c7*/

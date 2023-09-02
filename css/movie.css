@@ -1,0 +1,213 @@
+body{
+  text-align: center;
+  margin: 0;
+  border: 0;
+ background-color: #0c0c0c;
+
+
+}
+input{
+padding-right: 50px;
+padding-left: 10px;
+border-radius: 40px;
+width: 320px;
+height: 32px;
+position: absolute;
+top: 35px;
+left: 500px;
+ background-color: #272626;
+ color: aliceblue;
+ border: 0;
+}
+h4{
+  margin: 0;
+ color : #5A5756;
+  padding-bottom: 10px;
+  text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.side1{
+  position: absolute;
+  left: 50px;
+  top: 50px;
+  padding: 50px 10px 300px 30px;
+
+}
+.side2{
+  position: absolute;
+  left: 80px;
+  padding-top: 400px;
+}
+
+img{
+  height: 220px;
+
+
+}
+.img1{
+  width: 160px;
+  border-radius: 10px;
+  position: absolute;
+  left: 60px;
+  top: 100px;
+
+
+}
+
+.main{
+  position: absolute;
+  top: 80px;
+  left: 230px;
+  padding-bottom: 990px;
+  padding-right: 560px;
+  padding-top: 12px;
+  padding-left: 550px;
+  background-color: rgb(19, 18, 18);
+  border-radius: 10px;
+
+}
+
+
+.screenshot1{
+  position: absolute;
+  bottom: 370px;
+  right: 450px;
+}
+.screenshot2{
+  position: absolute;
+  bottom: 120px;
+  right: 450px;
+}
+.headingmain{
+  position: absolute;
+  left: 60px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #F8F2F0;
+}
+hr{
+  width: 640px;
+
+  position: relative;
+  bottom: 40px;
+  right: 40px;
+  background-color: #5A5756;
+
+}
+.headingmain2{
+  position: absolute;
+  bottom: 610px;
+  right: 560px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color: #F8F2F0;
+}
+
+.sidemain{
+  position: absolute;
+  right: 2px;
+  top: 1px;
+  padding-left: 65px;
+  padding-right: 90px;
+  padding-bottom: 20px;
+  background-color: #1d1c1c;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+      color: #F8F2F0;
+
+}
+
+.img9{
+  width: 175px;
+  height: 100px;
+}
+.img10{
+  width: 170px;
+  height: 100px;
+  padding-top: 25px;
+}
+.img11{
+  width: 175px;
+  height: 100px;
+  padding-top: 10px;
+}
+h5{
+  margin: 0;
+  padding: 0;
+  text-align: left;
+}
+.new{
+  padding-right: 25px;
+}
+
+.sideh1{
+  position: absolute;
+  right: 350px;
+  top: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  color: #F8F2F0;
+}
+.sideh2{
+  position: absolute;
+  right: 250px;
+  top: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.sideh3{
+  position: absolute;
+  right: 150px;
+  top: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.white1{
+  color:   #F8F2F0;
+}
+.btn {
+  background: #000000;
+  background-image: -webkit-linear-gradient(top, #000000, #2980b9);
+  background-image: -moz-linear-gradient(top, #000000, #2980b9);
+  background-image: -ms-linear-gradient(top, #000000, #2980b9);
+  background-image: -o-linear-gradient(top, #000000, #2980b9);
+  background-image: linear-gradient(to bottom, #000000, #2980b9);
+  -webkit-border-radius: 30;
+  -moz-border-radius: 30;
+  border-radius: 30px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 18px;
+  padding: 11px 30px 11px 30px;
+  text-decoration: none;
+  position: absolute;
+  bottom: 25px;
+  right: 580px;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+.read{
+  width: 150%;
+  margin-left: 100px auto 100px auto;
+  text-align: left;
+}
+p{
+  display: inline;
+  width: 500px;
+  line-height: 2;
+  position: absolute;
+  left: 260px;
+  top: 80px;
+  color:   #F8F2F0;
+
+}
+
+span{
+  position: absolute;
+  left: 290px;
+  top: 3px;
+    color:#F8F2F0;
+}
